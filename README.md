@@ -50,7 +50,7 @@ The main UI of the app consists of:
 - The UI is centered on the screen using Jetpack Compose's layout modifiers for a clean, modern design.
 
 ### 📸 Example UI:
-![DiceApp Example](images/diceapp_preview.png)
+![DiceApp Example](diceroller_preview.png)
 
 ## 📚 Dependencies
 This project uses the following libraries:
